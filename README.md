@@ -3,7 +3,7 @@ Unturned Simple Salary Plugin
 
 # Features
 - Allows For Paying Out Salaries To Players With Specified Permissions
-- 
+  
 # Configuration
 ``` xml
 <?xml version="1.0" encoding="utf-8"?>
