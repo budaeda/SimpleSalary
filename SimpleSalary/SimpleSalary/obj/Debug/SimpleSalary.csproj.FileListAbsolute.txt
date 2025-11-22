@@ -1,0 +1,15 @@
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\bin\Debug\SimpleSalary.dll
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\bin\Debug\SimpleSalary.pdb
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\bin\Debug\Assembly-CSharp.dll
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\bin\Debug\Rocket.API.dll
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\bin\Debug\Rocket.Core.dll
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\bin\Debug\Rocket.Unturned.dll
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\bin\Debug\SDG.NetTransport.dll
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\bin\Debug\UnityEngine.dll
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\obj\Debug\SimpleSalary.csproj.CoreCompileInputs.cache
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\obj\Debug\SimpleSalary.csproj.CopyComplete
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\obj\Debug\SimpleSalary.dll
+C:\Users\caspi\source\repos\SimpleSalary\SimpleSalary\obj\Debug\SimpleSalary.pdb
