@@ -2,8 +2,8 @@
 Unturned Simple Salary Plugin
 
 # Features
+- Allows For Paying Out Salaries To Players With Specified Permissions
 - 
-
 # Configuration
 ``` xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -21,6 +21,7 @@ Unturned Simple Salary Plugin
   <SalaryPayoutInterval>5</SalaryPayoutInterval>
 </SimpleSalaryConfiguration>
 ```
+
 # Need Help?
 Contact <b>arliaug</b> On Discord
 
